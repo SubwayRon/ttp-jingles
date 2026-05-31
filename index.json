@@ -38,6 +38,18 @@
       "file": "jingles/nes/Super Mario Bros 2.mp3"
     },
       {
+      "game": "Mario Bros",
+      "file": "jingles/nes/Mario Bros.mp3"
+    },
+      {
+      "game": "Tecmo Bowl",
+      "file": "jingles/nes/Tecmo Bowl.mp3"
+    },
+      {
+      "game": "Mother", "Earthbound Beginnings", "MOTHER",
+      "file": "jingles/nes/MOTHER.mp3"
+    },
+      {
       "game": "Tomodachi Life Living The Dream",
       "file": "jingles/switch/Tomodachi Life Living The Dream.mp3"
     }
